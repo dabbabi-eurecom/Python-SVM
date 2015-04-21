@@ -1,9 +1,7 @@
 =========
 Simple SVM implementation with Python
 =========
-By Dabbabi
-
-Using Andrew Tulloch's python script 
+By Dabbabi, using Andrew Tulloch's python script 
 ========
 details
 ========
