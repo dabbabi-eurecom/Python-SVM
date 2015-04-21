@@ -1,0 +1,4 @@
+i=raw_input("space seperated coordinates of prediction vecror : ")
+s=i.split()
+x=[float(s[0]),float(s[1])]
+print x
