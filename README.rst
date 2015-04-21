@@ -2,6 +2,7 @@
 Simple SVM implementation with Python
 =========
 By Dabbabi, using Andrew Tulloch's python script 
+
 ========
 details
 ========
